@@ -1,0 +1,9 @@
+# you must install these libraries 
+python=3.8
+librosa=0.8.1
+scipy=1.7.1
+tk=8.6.10
+matplotlib
+numpy
+pyaudio=0.2.11
+wave
