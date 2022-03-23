@@ -33,5 +33,5 @@ Features of this app: <br />
   <li>Cepstral
   </ul>
   
-if you need to help, use this email: a.a.rahmati.r.r@gamil.com
+if you need to help, use this email: a.a.rahmati.r.r@gmail.com
   
